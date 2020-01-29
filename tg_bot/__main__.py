@@ -22,7 +22,7 @@ hello {}, my name is {}! if you have any questions about how to use me please gi
 
 im a group manager bot maintained by  [this person](tg://user?id={}).
 
-This bot was officially made for [Truly Escrow Group](https://t.me/joinchat/PHOp61cQnJLCftFsN8lwxA)
+This bot was officially made for Truly Escrow Group. 
 
 My future updates will be put into This Channel - @ZainsProject.
 
